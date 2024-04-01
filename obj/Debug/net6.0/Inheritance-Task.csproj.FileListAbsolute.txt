@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\bin\Debug\net6.0\Inheritance-Task.exe
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\bin\Debug\net6.0\Inheritance-Task.deps.json
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\bin\Debug\net6.0\Inheritance-Task.runtimeconfig.json
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\bin\Debug\net6.0\Inheritance-Task.dll
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\bin\Debug\net6.0\Inheritance-Task.pdb
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.dll
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\refint\Inheritance-Task.dll
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.pdb
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\Inheritance-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\Inheritance-Task\Inheritance-Task\obj\Debug\net6.0\ref\Inheritance-Task.dll
